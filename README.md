@@ -3,6 +3,8 @@ Basic guess game example with Jetpack Compose!
 
 ⭐️ You can create this project step by step with [Youtube tutorial.](https://bit.ly/3kYiQbT)
 
+⭐️ [Watch game!](https://twitter.com/yamuurerdgn/status/1419774341143793671)
+
 
 ## Preview 👀
 <table>
